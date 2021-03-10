@@ -2,4 +2,7 @@
 #logs
 logs/
 
+#bin 
+bin/
+
 .logs
